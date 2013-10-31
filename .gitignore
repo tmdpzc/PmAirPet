@@ -23,6 +23,7 @@ local.properties
 .classpath
 .project
 .settings
+.DS_Store
 proguard-project.txt
 project.properties
 
